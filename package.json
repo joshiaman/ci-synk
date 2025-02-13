@@ -2,7 +2,7 @@
   "name": "reactjs-tabbedpane-component",
   "version": "1.0.19",
   "description": "A tabbed pane component using React.js",
-  "author": "adafycheng",
+  "author": "joahiaman",
   "license": "MIT",
   "repository": "joshiaman/ci-synk",
   "main": "dist/index.js",
